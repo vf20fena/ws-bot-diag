@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "agente-tarot-barranco-hrdw",
+  "private_key_id": "0bc2c4e28b5c7fca1507e0f68f2c523cc5f7a813",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDRDSXwdAJD8LGs\nXcazv5EKpzcon5Liuuh06lGDE4XHbqLp1LPFcC9Er7sIqa6vW0lIBk7//Krl1j9D\nepZQn8PbO45MIykIqRdKiG6xP6PVWhbcg9SRK86/4ET2V6nAH2+MQUuc18MUblFe\nSYyAHSRRnFPQ0LXKMuNNYn4ENqdP9Z0vUFJoUnzXtq6lmTfzIskz0/CzKDQBzkQF\n7W6cSjDeDKollAyV0F9H6i9lOrxwNGCmw0wDJHH9I1uItb7lrCQnl1v8ULj7Le/g\nJcXSoEJpGnCujXEkwehf6+wC9Wji893JXJP1YON/uYQXdOq5VhWN1Vx1hFRYS6MI\nSef1NJNxAgMBAAECggEAFBIl7dpIK2YNEPD8oQkH779n3tPEolXH+A2qiiH83/hs\ngMnGAXNIvoNRZZQGVwS12knsxMwT9mF7DSCpv4+PRNmzdaDnPCh2jtaJgNAM4UY3\nLVsk31PsPjorNNbsJSt/e2D7gFFWLqcm0x15oAVBlZT468gAuYCS7Tztv2bQlS8M\ncQ2pYuHt3e4ptIc59ygBx1P5pHFAsW3uogbZN0IbqDrbNq4ADdH0FNPUGRtipbj6\ng/7vpA6Jw0AuqhC3NAuyGTq9aWqZzdtsylwo6rL7i1WmbL7OxcunoSts+a5O/PM6\n3LZlKNlhQdNvIu2ZkWv8Pe/tnhib84axp9KAtBuRDwKBgQDsiiBvpABnmaetx+25\n2trYD7iTst/dw5e1hDGcEn3P3MX7b8M/hAQcyFLBk/exE+KMPWVzveRSgjb8xgYw\n8pyqkKNUdzPqaHWNzButs0R3DbfwF0K9N4OjEUVoAH7AmVMXjpmr3cFjPcwC/hSc\nf0iyei3I6vmHm3F8U/peZtIcYwKBgQDiQBRRKkr1q12kmNG5P+O1hezEGf5Io853\nj9M/VXF6NZ/Obg0fElqHBY8a47FvJOvUCGv4fmSM9bwZqprVqtkIKVilSsFkJDx4\nKmshp8m3edmuEW1Rle2mDsdbRbY98FCAr9EQR5U3gOM4G6+G9jo1gWBhmUZRPPVH\n8ZjTDo2nGwKBgCtLALLORpCvq+P/ssAQkXt4LSVDWPwC35KGdnoFXGeeFdJ2WzsV\n05bdB2CMz4nmhNF8L0Rm3hJH6P6M0/dDgG8rd+luw97EbbedQveg1wgfR6o2560w\nKvS+pYBqjsh7h5zJKdEuDkY2uk9V57nZBho8iIK8lx090yCZUjrTAOPXAoGBAL2n\nKWDAKwW0GFMZJvQ6cg5/rPDVOSp65V+j2FiGrxDaUpMf/S/GmswEBOltZBbexDCA\nvsEWcgMXGg4JzLC+/h6xSfWErIfdODMim5sioxyBr88SHKj/HK7ORJ5l2VYiU9kL\niBw1ZQeZqt4llwVy8WhYgwpNCXyftJwSESEaWfNxAoGBAOR4dxR5DtPjxCKIFlUh\nC/yPgMr3EzUIyO9XxbFdFX6AIscsLT5vZANNl0iL2hiX/afrO+zLATUZaC05tvJs\nKriJggFxF2QWigWXjdTYCQ/Cn8rDInUqQXLrSgUZFfEl92oif6rcZ6mfoOMkPAb1\nAjWEJsTXEGY828McLoNonXv8\n-----END PRIVATE KEY-----\n",
+  "client_email": "katia-tarot@agente-tarot-barranco-hrdw.iam.gserviceaccount.com",
+  "client_id": "106332928112374669986",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/katia-tarot%40agente-tarot-barranco-hrdw.iam.gserviceaccount.com"
+}
